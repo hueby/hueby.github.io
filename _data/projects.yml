@@ -1,0 +1,11 @@
+- name: LeagueiOS
+  description: An app for showing bowling results of a tournament or league. WIP
+  link: https://github.com/hueby/LeagueiOS
+
+- name: dotfiles
+  description: My little dotfiles collection.
+  link: https://github.com/hueby/dotfiles
+
+- name: mensen
+  description: Telegram Bot for Meal Plan of Universität Kassel. WIP
+  link: https://github.com/hueby/mensen

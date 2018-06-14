@@ -1,0 +1,11 @@
+---
+layout: post
+title: "New Setup"
+date: "2018-06-14 16:57:17 +0200"
+---
+
+This page is being updated. Added sections are my Resumé for possible job applications and a overview of some of my projects. Maybe I should put some readme informations to the project entries.
+
+See you folks.
+
+

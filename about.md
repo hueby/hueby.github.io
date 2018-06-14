@@ -1,13 +1,11 @@
 ---
 layout: page
-title: About hueby
+title: About
 permalink: /about/
 ---
 
-<about>
-name: hueby
-origin: germany
-age: 28
-habits: vim
-skills: Objective-C, C, JS, Java, PHP
-</about>
+name: Dennis Hübner<br>
+origin: germany<br>
+age: 28<br>
+habits: vim, bowling, gaming<br>
+skills: Objective-C, Swift, C, JavaScript, NodeJS, Java, PHP

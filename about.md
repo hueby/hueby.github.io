@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img align="right" width="30%" src="/assets/dennis.jpg">
+<!-- <img align="right" width="30%" src="/assets/dennis.jpg"> -->
 
 name: Dennis Hübner
 origin: germany<br>
